@@ -29,7 +29,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - Likewise for Node.js and npm for package installation.
 
-`$ node --version && npm --version`
+- `$ node --version && npm --version`
 
 ## Setup
 
@@ -61,7 +61,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-The design has been inspired by:
+The project has been inspired by:
 
 [Microverse](https://www.microverse.org)
 
