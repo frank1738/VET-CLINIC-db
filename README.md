@@ -1,6 +1,6 @@
 # Vet clinic database
 
-This is a Vet clinic database project whose main learning objectives were;
+This is a Vet clinic database project whose main learning objectives are;
 
 - Use database transactions.
 - Modify and delete data in SQL.
@@ -35,7 +35,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - Clone the repository using the GitHub link provided below.
 
-`https://github.com/frank1738/VET-CLINIC-db.git`
+- `https://github.com/frank1738/VET-CLINIC-db.git`
 
 ## Usage
 
