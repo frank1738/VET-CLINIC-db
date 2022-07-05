@@ -1,7 +1,15 @@
-# curriculum-databases-projects-template
+# Vet clinic database
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+This is a Vet clinic database project whose main learning objectives were;
+
+- Use database transactions.
+- Modify and delete data in SQL.
+- Prepare complex queries that answer analytical questions.
+
+## Built with
+
+- PostgreSQL
+- VS Code
 
 ## Getting Started
 
@@ -11,19 +19,33 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Use [data.sql](./data.sql) to populate tables with sample data.
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
+## Prerequisites
+
+- A web browser like Google Chrome.
+- A code editor like Visual Studio Code with Git and Node.js.
+- You can check if Git is installed by running the following command in the terminal.
+
+`$ git --version`
+
+- Likewise for Node.js and npm for package installation.
+
+`$ node --version && npm --version`
+
+## Setup
+
+- Clone the repository using the GitHub link provided below.
+
+## Usage
+
+- Kindly modify the files as needed.
+
 ## Authors
 
-👤 **Author1**
+👤 **Frankline Osoro**
 
-- GitHub: [@githubhandle](https://github.com/githubhandl)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@frank1738](https://github.com/frank1738)
+- Twitter: [@frankhiggins08](https://twitter.com/frankhiggins08)
+- LinkedIn: [Frankline Osoro](http://www.linkedin.com/in/frankline-osoro-b526ba18b)
 
 ## 🤝 Contributing
 
