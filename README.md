@@ -6,6 +6,8 @@ This is a Vet clinic database project whose main learning objectives are;
 - Modify and delete data in SQL.
 - Prepare complex queries that answer analytical questions.
 
+## ERD diagram
+![image](https://user-images.githubusercontent.com/98453979/178461298-b81dedf2-139b-4903-a1ba-9a77f790abdb.png)
 ## Built with
 
 - PostgreSQL
